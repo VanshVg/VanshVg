@@ -4,7 +4,7 @@
   </p>
 </hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshvg&label=Profile%20views&color=0e75b6&style=flat" alt="vanshvg" /> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width="400" height="400"/>
 
 - 🔭 I’m currently working on **Rating Hub**
 
