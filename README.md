@@ -1,3 +1,4 @@
+![banner.png](./banner.png)
 <hr>
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+There+%2C+Nice+to+see+you+%F0%9F%98%80;I+am+Vansh+Gandhi%2C+an+IT+student+;A+passionate+web+developer;Loves+to+learn+new+things" alt="Typing SVG" /></a>
