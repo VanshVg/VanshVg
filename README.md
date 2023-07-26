@@ -7,9 +7,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width="400" height="400"/>
 
-- 🔭 I’m currently working on **Rating Hub**
-
-- 🌱 I’m currently learning **Handlebars**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Node, Express and MongoDB**
 
