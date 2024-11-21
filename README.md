@@ -7,9 +7,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width="400" height="400"/>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **Node, Express and MongoDB**
+- 💬 Ask me about **Node, Express, React, Redux, My SQL, PostegresSQL and MongoDB**
 
 - 📫 How to reach me **vanshgandhi.vg10@gmail.com**
 
