@@ -1,27 +1,34 @@
-![banner.png](./banner.png)
-<hr>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+There+%2C+Nice+to+see+you+%F0%9F%98%80;I+am+Vansh+Gandhi%2C+an+IT+student+;A+passionate+web+developer;Loves+to+learn+new+things" alt="Typing SVG" /></a>
-  </p>
-</hr>
+# Vansh Gandhi
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width="400" height="400"/>
+Full-stack software engineer focused on backend systems and scalable web applications.
 
-- 💬 Ask me about **Node, Express, React, Redux, My SQL, PostegresSQL and MongoDB**
+## About
 
-- 📫 How to reach me **vanshgandhi.vg10@gmail.com**
+I build full-stack web applications end-to-end from database schema and backend architecture to the React interfaces on top. My work spans data pipelines and API integrations on the backend, and component-driven, state-managed UIs on the frontend. Currently working across e-commerce, real estate, and IoT platforms, using TypeScript, Node.js, React, and PostgreSQL/MongoDB.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vansh-gandhi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-gandhi10/" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh__vg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh__vg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vansh_1712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vansh_1712" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vanshvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshvg" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+**Languages:** TypeScript, JavaScript, SQL
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vanshvg&show_icons=true&locale=en&layout=compact" alt="vanshvg" /></p>
+**Frontend:** React.js, Redux / Redux Toolkit
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshvg&show_icons=true&locale=en" alt="vanshvg" /></p>
+**Backend:** Node.js, Express.js
+
+**Databases:** PostgreSQL (Sequelize), MongoDB (Mongoose)
+
+**Cloud & Infrastructure:** AWS (Lambda, SQS, S3, CloudFront, Serverless Framework), Docker, Git
+
+**Other:** REST APIs, Microservices, Real-time systems (Socket.io / WebSockets), ETL & Data Migration
+
+## Selected Work
+
+- **Real Estate Management Platform** - Built full-stack across the platform: backend modules (auth, appointment booking, listings) and REST APIs on Node.js/PostgreSQL, plus real-time chat and a drag-and-drop admin CMS on the React/Redux Toolkit frontend. Also designed a secure file-access system using time-limited AWS S3/CloudFront signed URLs.
+- **IoT Sensor Monitoring Platform** - Led a full-stack rebuild of the platform's alarm and notification system: a unified backend data model with a zero-downtime live migration, paired with a new React/TypeScript configuration UI with source-aware sensor pickers. Also cut the dashboard's JS bundle size by over 80% through code splitting and lazy loading.
+- **Multi-Channel E-Commerce Integration** - Built the Amazon and eBay marketplace integration layer end-to-end, including a normalized backend data model to unify two different marketplace APIs and a real-time React/Socket.io sync dashboard.
+- **CRM Data Migration Platform** - Architected a serverless ETL pipeline on AWS Lambda and SQS to migrate 500,000+ records between CRM systems, with a MongoDB staging layer for resumable, idempotent processing and 100% data accuracy.
+
+## Contact
+
+- Email: vanshgandhi.vg10@gmail.com
+- LinkedIn: [linkedin.com/in/vansh-gandhi10](https://linkedin.com/in/vansh-gandhi10)
+- GitHub: [github.com/vanshvg](https://github.com/vanshvg)
